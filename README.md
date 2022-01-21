@@ -1,20 +1,14 @@
 # UX-UI
 # My UX/UI Designs
-#### :flags: Portfolio
-### :flags: About Me
-- I like :camera: , It's keep memories alive.
-- I play sport such as :basketball: :8ball: :bicyclist: 
-- Reading :books: is my hobby.
-- Interested in marketing :money_with_wings: 
-- I can also play :guitar: 
-- :headphones: :notes: is my friend.
-- I Fashion and Style Myself :tophat: :necktie: :jeans: :shoe:
 
-### 💼 Where i am currently working at/as
-- I'm Studying as a Computer Engineering Student @KMITL
+### :flags: Portfolio
+ARTSPACE : Space for arts
+- [Artspace - Figma](https://www.figma.com/file/aWBJcHleNIpY4XFOWxOjWm/Artspace?node-id=1%3A8)
+- [Artspace Case Study - Behance](https://www.behance.net/gallery/134144365/ARTSPACE-Portfolio/modules/759246095)
 
-### 💻 What i am currently/done working on
-- I'm working on Website Development & App Development (I should call it Learning)
+LINE MAN Wongnai UX/UI Assignment
+- [Assignent - Figma](https://www.figma.com/file/9QZHWjCZDnNJoiRmbRp8pK/LINEMAN-Assignment?node-id=0%3A1)
+- [Assignment Case Study - Behance](https://www.behance.net/gallery/134710331/UX-UI-ASSIGNMENT/modules/762295299)
 
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/leon.kanade/) 📌
