@@ -1,4 +1,3 @@
-# UX-UI
 # My UX/UI Designs
 
 ### :flags: Portfolio
